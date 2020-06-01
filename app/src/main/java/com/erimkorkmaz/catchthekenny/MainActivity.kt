@@ -74,4 +74,5 @@ class MainActivity : AppCompatActivity() {
         score++
         text_score.text = "Score : $score"
     }
+
 }
